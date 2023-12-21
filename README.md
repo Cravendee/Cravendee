@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cravendee
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning full-stack development
-- 💞️ I’m looking to collaborate on any coding task
+- 🌱 I’m currently learning front-end engineering
+- 💞️ I’m looking to collaborate on any front-end task
 - 📫 How to reach me davidalatishe@gmail.com
 
 <!---
