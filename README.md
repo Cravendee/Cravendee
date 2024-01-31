@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cravendee
-- 👀 I’m interested in frontend web development
+- 👀 I’m interested in internship
 - 🌱 I’m currently learning front-end engineering
 - 💞️ I’m looking to collaborate on any front-end task
 - 📫 How to reach me davidalatishe@gmail.com
